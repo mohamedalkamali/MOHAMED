@@ -1,0 +1,17 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(n55.png),20px;
+
+}
+
+    .button{
+       button: 20px;
+       outline: none;
+       height: 40px;
+       background: #d9ff01;
+       font: rgb(180, 230, 0);
+       font-size: 17px;
+       border-radius: 20px;
+   }
